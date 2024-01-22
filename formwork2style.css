@@ -1,0 +1,45 @@
+form{
+    background-color: lightseagreen;
+    padding-left: 30px;
+    margin: auto;
+    width: 50%;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+}
+button{
+    width: 90%;
+    height: 50px;
+    margin-right: 100px;
+    background-color: midnightblue;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: green;
+}
+#name{
+    margin-left: 60px;
+}
+#email{
+    margin-left: 60px;
+}
+#psw{
+    margin-left: 35px;
+}
+#zip{
+    margin-left: 32px;
+}
+#about{
+    margin-left: 50px;
+}
+#language{
+    margin-left: 36px;
+}
+.Male{
+    margin-left: 50px;
+}
+body{
+    background-color: skyblue;
+}
+
